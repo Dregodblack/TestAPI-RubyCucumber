@@ -1,0 +1,6 @@
+require 'cucumber'
+require 'pry'
+require 'httparty'
+require 'faker'
+require 'cpf_cnpj'
+require 'json'
